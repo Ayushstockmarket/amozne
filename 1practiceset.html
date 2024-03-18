@@ -1,0 +1,61 @@
+<!-- this a first practice set questions -->
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Practice-set-1</title>
+    <style>
+      button {
+        color: red;
+        background-color: green;
+      }
+      .class-button,
+      #id-button {
+        background-color: red;
+        color: aliceblue;
+      }
+      .WISHLIST{
+        background-color: white;
+        color: black;
+        border: 1px solid black;
+        border-radius: 5px;
+      }
+      span{
+        color: red;
+        font-size: 25px;
+        
+        
+      }
+      .first-button{
+        background-color: rgb(36, 167, 36);
+        border-radius: 15px;
+        border: 0px solid rgb(36, 167, 36);
+        padding: 5px;
+      }
+    </style>
+  </head>
+  <body>
+    <button class="first-button" onclick=" quantity = quantity+1; document.querySelector('#card-value'). 
+    innerText = `Your bag has ${quantity} items`;"
+    >
+      Add to Bag
+
+    </button>
+    <button class="WISHLIST" 
+    onclick=" quantity = quantity-1; document.querySelector('#card-value'). 
+    innerText = `Your bag has ${quantity} items`;"><span>♥</span> WISHLIST</button>
+    <button class="class-button"
+    onclick=" quantity = quantity+1; document.querySelector('#card-value'). 
+    innerText = `Your bag has ${quantity} items`;">class-button</button>
+    <button id="id-button" onclick=" quantity = quantity+1; document.querySelector('#card-value'). 
+    innerText = `Your bag has ${quantity} items`;">id-button</button>
+
+    <p id="card-value">
+    
+    </p>
+    <script> 
+    let quantity=0;
+  </script>
+  </body>
+</html>

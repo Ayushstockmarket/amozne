@@ -1,0 +1,792 @@
+body {
+  width: 1440px;
+  height: 4463px;
+}
+.container1 {
+  height: 719px;
+  width: 1440px;
+  /* background-color: red; */
+}
+.logomain {
+  width: 171px;
+  height: 42px;
+  margin: 31px 383px 64px 135px;
+  padding: 12px 0px 8px 0px;
+  color: #043661;
+  font-family: Inter;
+  font-size: 35px;
+  font-weight: 800;
+  line-height: 42px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+.aboutus {
+  width: 69px;
+  height: 22px;
+  font-family: Graphik;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 22px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #000000;
+  margin: 43px 53px 72px 0px;
+  padding: 12px 0px 8px 0px;
+}
+.fincialtool {
+  width: 108px;
+  height: 22px;
+  font-family: Graphik;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 22px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #000000;
+  padding: 12px 0px 8px 0px;
+  margin: 43px 53px 72px 0px;
+}
+.Recources {
+  width: 79px;
+  height: 22px;
+  font-family: Graphik;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 22px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #000000;
+  padding: 12px 0px 8px 0px;
+  margin: 43px 64px 72px 0px;
+}
+.buttonbecome {
+  width: 193px;
+  height: 46px;
+  margin: 31px 152px 60px 0px;
+  padding: 12px 20px 12px 20px;
+  border-radius: 12px;
+  gap: 10px;
+  background-color: #3a63f5;
+  border: 0px solid #3a63f5;
+}
+.text-button-1-header {
+  width: 153px;
+  height: 22px;
+  font-family: Graphik;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 22px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #ffffff;
+}
+
+/* this is a first flex box use of the div container */
+.flex {
+  display: flex;
+  margin-left: 124px;
+}
+/* This is div container first */
+.container1parta {
+  margin-top: 76px;
+  display: inline-block;
+  width: 622px;
+  height: 400px;
+  gap: 35px;
+}
+.apartr {
+  width: 622px;
+  height: 207px;
+  font-family: Graphik;
+  font-size: 55px;
+  font-weight: 700;
+  line-height: 69px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #043661;
+}
+.apart2 {
+  width: 531px;
+  height: 68px;
+  font-family: Graphik;
+  font-size: 25px;
+  font-weight: 400;
+  line-height: 31px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #58585a;
+  padding-right: 37px;
+
+  margin: 35px 37px 0px 0px;
+}
+.apart3 {
+  width: 170px;
+  height: 55px;
+  padding: 15px 35px 15px 35px;
+  border-radius: 12px;
+  gap: 10px;
+  background-color: #3a63f5;
+  margin: 50px 452px 0px 0px;
+  border: 0px solid #3a63f5;
+}
+.apart3-1 {
+  width: 100px;
+  height: 25px;
+  font-family: Graphik;
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 25px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #ffffff;
+}
+
+/* this is a 2 container */
+.container1partb {
+  width: 504px;
+  height: 622px;
+  margin-left: 14px;
+  background-image: url(image1.jpg);
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+/* this is a end of the container 2 image  */
+
+/* this is a 3 container */
+.conatinera {
+  width: 907px;
+  height: 107px;
+  margin: 104px 267px 0px 266px;
+  justify-content: center;
+}
+.conatinerasubparta {
+  justify-content: center;
+  width: 907px;
+  height: 56px;
+  font-family: Graphik;
+  font-size: 45px;
+  font-weight: 700;
+  line-height: 56px;
+  letter-spacing: 0em;
+  text-align: center;
+  color: #043661;
+}
+.conatinerasubpartb {
+  width: 427px;
+  height: 25px;
+  font-family: Graphik;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 25px;
+  letter-spacing: 0em;
+  text-align: center;
+  color: #58585a;
+  padding: 20px 240px 0px 240px;
+}
+/* THis is the end of the above div container */
+/* ------------------------------------------------ */
+/* this is the next flex box */
+.con {
+  display: flex;
+}
+
+/* first */
+
+.thirdmainconatinera {
+  width: 137px;
+  height: 230px;
+  margin: 78px 0px 207px 235px;
+}
+.fi {
+  width: 90px;
+  height: 92px;
+  margin: 8px 36px 11px 17px;
+}
+.qimg {
+  width: 90px;
+  height: 92px;
+}
+.se {
+  width: 137px;
+  height: 69px;
+  font-family: Graphik;
+  font-size: 55px;
+  font-weight: 700;
+  line-height: 69px;
+  letter-spacing: 0em;
+  text-align: center;
+  color: #043661;
+}
+.th {
+  width: 59px;
+  height: 28px;
+  font-family: Graphik;
+  font-size: 22px;
+  font-weight: 400;
+  line-height: 28px;
+  letter-spacing: 0em;
+  text-align: center;
+  color: #000000;
+
+  margin: 9px 71px 0px 7px;
+}
+/* second logo */
+.thirdmainconatinerb {
+  width: 98.54px;
+  height: 222px;
+  margin: 86px 158.46px 207px 134px;
+}
+.fir,
+.qimg2 {
+  width: 77.08px;
+  height: 95px;
+}
+.sec {
+  width: 87px;
+  height: 69px;
+  font-family: Graphik;
+  font-size: 55px;
+  font-weight: 700;
+  line-height: 69px;
+  letter-spacing: 0em;
+  text-align: center;
+  color: #043661;
+  margin: 21px 9px 9px 2.54px;
+}
+.thi {
+  width: 96px;
+  height: 28px;
+  font-family: Graphik;
+  font-size: 22px;
+  font-weight: 400;
+  line-height: 28px;
+  letter-spacing: 0em;
+  text-align: center;
+  color: #000000;
+  margin-left: 2.54px;
+}
+/* third */
+.thirdmainconatinerc {
+  width: 192px;
+  height: 204px;
+  margin: 104px 63px 209px 0px;
+}
+.firs {
+  width: 77.58px;
+  height: 76.95px;
+}
+.qimg3 {
+  width: 77.58px;
+  height: 76.95px;
+}
+.seco {
+  width: 131px;
+  height: 69px;
+  font-family: Graphik;
+  font-size: 55px;
+  font-weight: 700;
+  line-height: 69px;
+  letter-spacing: 0em;
+  text-align: center;
+  color: #043661;
+  margin: 21.05px 55px 9px 6px;
+}
+.thir {
+  width: 186px;
+  height: 28px;
+  font-family: Graphik;
+  font-size: 22px;
+  font-weight: 400;
+  line-height: 28px;
+  letter-spacing: 0em;
+  text-align: center;
+  color: #000000;
+  margin: 9px 0px 0px 6px;
+}
+/* fourth */
+.thirdmainconatinerd {
+  width: 182.23px;
+  height: 230px;
+  margin: 78px 239.77px 209px 0px;
+}
+.first {
+  width: 106.11px;
+  height: 101.47px;
+}
+.qimg4 {
+  width: 106.11px;
+  height: 101.47px;
+}
+.secon {
+  width: 122px;
+  height: 69px;
+  font-family: Graphik;
+  font-size: 55px;
+  font-weight: 700;
+  line-height: 69px;
+  letter-spacing: 0em;
+  text-align: center;
+  color: #043661;
+  margin: 22.53px 55px 9px 5.23px;
+}
+.third {
+  width: 175px;
+  height: 28px;
+  font-family: Graphik;
+  font-size: 22px;
+  font-weight: 400;
+  line-height: 28px;
+  letter-spacing: 0em;
+  text-align: center;
+  color: #000000;
+  margin: 9px 0px 0px 7.23px;
+}
+/* this is the end of the div box  */
+
+.row5 {
+  width: 708px;
+  height: 112px;
+  font-family: Graphik;
+  font-size: 45px;
+  font-weight: 700;
+  line-height: 56px;
+  letter-spacing: 0em;
+  text-align: center;
+  color: #043661;
+  margin: 0px 354px 82px 378px;
+}
+/* ------------------------------------------------ */
+/* this is the next flex box */
+
+.row6 {
+  display: flex;
+}
+
+/* end of the above flex box */
+
+.row6a {
+  width: 541px;
+  height: 401px;
+  border-radius: 5px;
+  margin: 0px 64px 156px 199px;
+}
+/* img */
+.row6a1 {
+  width: 541px;
+  height: 401px;
+}
+/* this is a another div conatiner */
+
+.row6b1 {
+  width: 138px;
+  height: 25px;
+  margin: 37px 329px 39px 0px;
+}
+.row6b1a {
+  width: 138px;
+  height: 25px;
+}
+.row6b2 {
+  width: 467px;
+  height: 115px;
+  font-family: Open Sans;
+  font-size: 20px;
+  font-style: italic;
+  font-weight: 500;
+  line-height: 29px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #545863;
+  margin: 0px 0px 39px 0px;
+}
+.row6b3 {
+  width: 181px;
+  height: 25px;
+  font-family: Graphik;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 25px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #000000;
+  margin: 0px 286px 8px 0px;
+}
+.row6b4 {
+  width: 69px;
+  height: 23px;
+  font-family: Graphik;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 23px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #5f5f5f;
+  margin: 0px 398px 53px 0px;
+}
+.row6b5 {
+  width: 83px;
+  height: 37px;
+  margin: 0px 384px 36px 0px;
+}
+.row6b5b {
+  width: 83px;
+  height: 37px;
+}
+
+/* end of the upper div and flex box */
+
+/* next box */
+
+/* ------------------------------------------------ */
+.row7 {
+  width: 907px;
+  height: 56px;
+  font-family: Graphik;
+  font-size: 45px;
+  font-weight: 700;
+  line-height: 56px;
+  letter-spacing: 0em;
+  text-align: center;
+  color: #043661;
+  margin: 0px 266.5px 0px 266.5px;
+}
+.row8 {
+  width: 651px;
+  height: 50px;
+  font-family: Graphik;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 25px;
+  letter-spacing: 0em;
+  text-align: center;
+  color: #58585a;
+  margin: 0px 394px 86px 394px;
+}
+/* ------------------------------------------------ */
+/* bank logo */
+.banklogo {
+  width: 986px;
+  height: 139px;
+  margin: 0px 240px 132px 214px;
+}
+.hdfcbank {
+  margin: 0px 102px 59px 0px;
+}
+.kotakbank {
+  margin: 0px 102px 59px 0px;
+}
+.Asixbank {
+  margin: 0px 102px 59px 0px;
+}
+.icicibank {
+  margin: 0px 0px 59px 0px;
+}
+.idfcbank {
+  margin: 0px 80px 0px 6px;
+}
+.yesbank {
+  margin-right: 114px;
+}
+.hdfcmutual {
+  margin-right: 106px;
+}
+/* ------------------------------------------------ */
+/* blog */
+.blog {
+  width: 1440px;
+  height: 764px;
+  margin: 0px 0px 0px 0px;
+}
+.blog1 {
+  margin: 100px 366px 87px 366px;
+  width: 708px;
+  height: 56px;
+  font-family: Graphik;
+  font-size: 45px;
+  font-weight: 700;
+  line-height: 56px;
+  letter-spacing: 0em;
+  text-align: center;
+  color: #043661;
+}
+/* --------------------------------- */
+.flexboxblog {
+  display: flex;
+  width: 1179px;
+  height: 399px;
+}
+/* ------------------ */
+.part1 {
+  width: 379px;
+  height: 393px;
+  color: #ffffff;
+  margin: 0px 21px 122px 135px;
+}
+/* ----- */
+.conten {
+  width: 127px;
+  height: 20px;
+  margin: 17px 235px 22px 17px;
+  font-family: Arial;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 20px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #584f76;
+}
+.content {
+  width: 346px;
+  height: 64px;
+  font-family: Inter;
+  font-size: 19px;
+  font-weight: 500;
+  line-height: 23px;
+  letter-spacing: 0em;
+  text-align: left;
+
+  font-family: Roboto;
+  font-size: 19px;
+  font-weight: 400;
+  line-height: 23px;
+  letter-spacing: 0em;
+  text-align: left;
+  border-left: 3px solid #3a63f5;
+  color: #2b2d42;
+  margin: 0px 16px 34px 0px;
+  padding-left: 17px;
+}
+.contenta {
+  width: 78px;
+  height: 24px;
+
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 24px;
+  letter-spacing: 0em;
+  text-align: left;
+
+  margin: 0px 284px 26px 17px;
+}
+.contenta,
+a {
+  color: #3a63f5;
+}
+/* --- */
+/* bali sabhi upper div ma sa la liya becuse style same ha sabhi ka */
+.part2 {
+  width: 379px;
+  height: 393px;
+  color: #ffffff;
+  margin: 0px 21px 122px 0px;
+}
+.contenq {
+  width: 127px;
+  height: 20px;
+  margin: 17px 235px 22px 17px;
+  font-family: Arial;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 20px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #584f76;
+}
+.contentw {
+  width: 346px;
+  height: 64px;
+  font-family: Inter;
+  font-size: 19px;
+  font-weight: 500;
+  line-height: 23px;
+  letter-spacing: 0em;
+  text-align: left;
+
+  font-family: Roboto;
+  font-size: 19px;
+  font-weight: 400;
+  line-height: 23px;
+  letter-spacing: 0em;
+  text-align: left;
+  border-left: 3px solid #3a63f5;
+  color: #2b2d42;
+  margin: 0px 16px 34px 0px;
+  padding-left: 17px;
+}
+.contentae {
+  width: 78px;
+  height: 24px;
+
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 24px;
+  letter-spacing: 0em;
+  text-align: left;
+
+  margin: 0px 284px 26px 17px;
+}
+.contentae,
+a {
+  color: #3a63f5;
+}
+
+/* --- */
+.part3 {
+  width: 379px;
+  height: 393px;
+  color: #ffffff;
+  margin: 0px 21px 131px 0px;
+}
+.contenz {
+  width: 127px;
+  height: 20px;
+  margin: 17px 235px 22px 17px;
+  font-family: Arial;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 20px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #584f76;
+}
+.contentx {
+  width: 346px;
+  height: 64px;
+  font-family: Inter;
+  font-size: 19px;
+  font-weight: 500;
+  line-height: 23px;
+  letter-spacing: 0em;
+  text-align: left;
+
+  font-family: Roboto;
+  font-size: 19px;
+  font-weight: 400;
+  line-height: 23px;
+  letter-spacing: 0em;
+  text-align: left;
+  border-left: 3px solid #3a63f5;
+  color: #2b2d42;
+  margin: 0px 16px 34px 0px;
+  padding-left: 17px;
+}
+.contentac {
+  width: 78px;
+  height: 24px;
+
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 24px;
+  letter-spacing: 0em;
+  text-align: left;
+
+  margin: 0px 284px 26px 17px;
+}
+.contentac,
+a {
+  color: #3a63f5;
+}
+/* -------------------------------------------------------------------------------------------------- */
+/* #enda {
+  width: 1466px;
+  height: 425px;
+  background-color: #3a63f5;
+  margin: 122px 0px 68px 0px;
+  position: relative;
+}
+.endae {
+  margin: 64px  348px 102px 358px;
+  /* margin-top: 102px; */
+  /* position: absolute; */
+/* } */
+/* .end1 {
+  width: 760px;
+  height: 100px;
+  margin: 64px 348px 0px 358px;
+  font-family: Graphik;
+  font-size: 45px;
+  font-weight: 700;
+  line-height: 50px;
+  letter-spacing: 0em;
+  text-align: center;
+  color: #ffffff;
+}
+.end2 {
+  width: 721px;
+  height: 54px;
+  font-family: Graphik;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 25px;
+  letter-spacing: 0em;
+  text-align: center;
+  color: #e8e8e9;
+  margin: 25px 367.5px 25px 377.5px;
+}
+.end3 {
+  width: 204px;
+  height: 55px;
+  padding: 15px, 35px, 15px, 35px;
+  border-radius: 12px;
+  gap: 10px;
+  margin: 25px 626px 102px 636px;
+  border: 0px solid #ffffff;
+}
+.end3p {
+  width: 134px;
+  height: 25px;
+  font-family: Graphik;
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 25px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #000000;
+}
+.endap {
+  width: 760px;
+  height: 259px;
+  gap: 25px;
+  padding-top: 100px;
+  position: absolute;
+  
+}  */
+.parent-box {
+  margin: 0;
+  background-color: #3A63F5;
+  width: 1466px;
+  height: 425px;
+  border-radius: 5px;
+  position: relative;
+}
+
+.child-box {
+  margin-top: 64px;
+  margin-right: 348px;
+  margin-bottom: 102px;
+  margin-left: 358px;
+  background-color: white;
+  width: 760px;
+  height: 259px;
+  position: absolute;
+}
+
+.sub-box {
+  background-color: lightgray;
+  margin: 10px; /* Adjust margin as needed */
+  width: 200px;
+  height: 100px;
+ /* To display boxes/buttons inline */
+}
+
+.sub-button {
+  background-color: lightgray;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+}
+
